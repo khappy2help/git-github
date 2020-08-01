@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 jsn testin for devlop branch
 TEsting revert/rebase on git
+=======
+jsn testin for devlop branch
+>>>>>>> master
